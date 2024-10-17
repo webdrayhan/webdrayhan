@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <h3 align="center">
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrayhan&data=followers,repositories,stars,commits&theme=nautilus&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=webdrayhan&data=followers,repositories,stars,commits&theme=viridescent&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
 
 
 <img src="https://komarev.com/ghpvc/?username=webdrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="webdrayhan" />
