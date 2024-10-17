@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [![committers.top badge](https://user-badge.committers.top/bangladesh/webdrayhan.svg)](https://user-badge.committers.top/bangladesh/webdrayhan)
 
 <br>
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrayhan&theme=darkmode" alt="Rayhan" /></a>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdrayhan&theme=matrix" alt="Rayhan" /></a>
 </h3>
 
 
